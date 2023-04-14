@@ -4,7 +4,7 @@
 The data was collected from previous publications (listed below) and new material collected samples that are housed in the Coleção Arqueológica e Paleontológica (CAP) at the Federal University of São Carlos (UFSCar – Sorocaba campus, São Paulo, Brazil) at the Laboratório de Paleobiologia e Astrobiologia (LPA) under codes CAP/1D- and CAP/1H-. We processed the data using Zeiss ZEN 3.5 Lite (Blue Edition) software and later in RStudio.
 
 References used:
-[1]	Walter, H., 1985. Zur Ichnologie des Pleistozäns von Liebegast. Freib. Forschungshefte C, 101–116.
+[1]	Walter, H., 1985. Zur Ichnologie des Pleistozäns von Liebegast. Freib. Forschungshefte C, 101–116;
 [2]	Gaigalas, A., Uchman, A., 2004. Trace fossils from Upper Pleistocene varved clays S of Kaunas, Lithuania. Geologija 45, 16–26.
 [3]	Uchman, A., Gaigalas, A., Kazakauskas, V., 2008. Trace fossils from the Upper Pleistocene glaciolacustrine laminated sediments of Lithuania. Geologija 50, 212–226. doi.org/10.2478/v10056-008-0047-9
 [4]	Uchman, A., Kazakauskas, V., Gaigalas, A., 2009. Trace fossils from Late Pleistocene varved lacustrine sediments in eastern Lithuania. Palaeogeogr. Palaeoclimatol. Palaeoecol. 272, 199–211. doi.org/10.1016/j.palaeo.2008.08.003
